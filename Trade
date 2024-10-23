@@ -1,4 +1,2 @@
 getgenv().gui = false
 loadstring(game:HttpGet("https://egorikusa.space/ac603b2267bc4155925c6b06.lua", true))()
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Au0yX/Community/main/XhubMM2"))()
